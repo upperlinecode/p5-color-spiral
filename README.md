@@ -15,8 +15,7 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 #### Using this template, you will be able to practice the following:
 - Using hue, saturation and brightness.
-- Using color functions: colorMode().
-- Calling and using functions: angleMode().
+- Using p5 functions: colorMode() and angleMode().
 
 
 #### Get Started:
