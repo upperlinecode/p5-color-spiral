@@ -14,9 +14,9 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 
 #### Using this template, you will be able to practice the following:
-- hue, saturation and brightness
-- color functions
-- calling functions
+- Using hue, saturation and brightness.
+- Using color functions: colorMode().
+- Calling and using functions: angleMode().
 
 
 #### Get Started:
